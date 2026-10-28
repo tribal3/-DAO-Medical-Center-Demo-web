@@ -44,11 +44,23 @@ export function Header() {
     <header
       className={cx(
         'sticky top-0 z-50 transition-all duration-300',
-        scrolled
-          ? 'border-b border-line bg-ivory/90 shadow-[0_18px_40px_-36px_rgba(16,63,67,0.55)] backdrop-blur-xl'
-          : 'border-b border-transparent bg-ivory/75 backdrop-blur-md',
+        scrolled ? 'border-b border-line' : 'border-b border-transparent',
       )}
     >
+      {/*
+        Background + blur live in their own layer on purpose: a backdrop-filter
+        on <header> itself would make it the containing block for the fixed
+        mobile drawer below, collapsing the drawer to the header's height.
+      */}
+      <div
+        aria-hidden="true"
+        className={cx(
+          'pointer-events-none absolute inset-0 -z-10 transition-all duration-300',
+          scrolled
+            ? 'bg-ivory/90 shadow-[0_18px_40px_-36px_rgba(16,63,67,0.55)] backdrop-blur-xl'
+            : 'bg-ivory/75 backdrop-blur-md',
+        )}
+      />
       <div className="mx-auto flex h-[72px] w-full max-w-[1320px] items-center justify-between gap-3 px-5 sm:px-8 lg:h-[88px] lg:px-10">
         <Logo href="#home" />
 
