@@ -1,0 +1,402 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "lang": "en",
+      "scrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "clientWidth": 1440,
+      "offenders": [],
+      "brokenImages": [],
+      "dir": "ltr",
+      "h1Text": "Your Wellbeing, Our Priority.",
+      "h1Size": "80px",
+      "h1Font": "Fraunces",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-en-1440.png"
+    },
+    {
+      "width": 1440,
+      "lang": "ar",
+      "scrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "clientWidth": 1440,
+      "offenders": [],
+      "brokenImages": [],
+      "dir": "rtl",
+      "h1Text": "عافيتك، أولويتنا.",
+      "h1Size": "72px",
+      "h1Font": "Tajawal",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-ar-1440.png"
+    },
+    {
+      "width": 1024,
+      "lang": "en",
+      "scrollWidth": 1024,
+      "bodyScrollWidth": 1024,
+      "clientWidth": 1024,
+      "offenders": [],
+      "brokenImages": [],
+      "dir": "ltr",
+      "h1Text": "Your Wellbeing, Our Priority.",
+      "h1Size": "73.728px",
+      "h1Font": "Fraunces",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-en-1024.png"
+    },
+    {
+      "width": 1024,
+      "lang": "ar",
+      "scrollWidth": 1024,
+      "bodyScrollWidth": 1024,
+      "clientWidth": 1024,
+      "offenders": [],
+      "brokenImages": [],
+      "dir": "rtl",
+      "h1Text": "عافيتك، أولويتنا.",
+      "h1Size": "65.536px",
+      "h1Font": "Tajawal",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-ar-1024.png"
+    },
+    {
+      "width": 768,
+      "lang": "en",
+      "scrollWidth": 768,
+      "bodyScrollWidth": 768,
+      "clientWidth": 768,
+      "offenders": [],
+      "brokenImages": [
+        "/images/about-clinic.jpg",
+        "/images/about-detail.jpg"
+      ],
+      "dir": "ltr",
+      "h1Text": "Your Wellbeing, Our Priority.",
+      "h1Size": "55.296px",
+      "h1Font": "Fraunces",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-en-768.png"
+    },
+    {
+      "width": 768,
+      "lang": "ar",
+      "scrollWidth": 768,
+      "bodyScrollWidth": 768,
+      "clientWidth": 768,
+      "offenders": [],
+      "brokenImages": [
+        "/images/about-clinic.jpg",
+        "/images/about-detail.jpg"
+      ],
+      "dir": "rtl",
+      "h1Text": "عافيتك، أولويتنا.",
+      "h1Size": "49.152px",
+      "h1Font": "Tajawal",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-ar-768.png"
+    },
+    {
+      "width": 390,
+      "lang": "en",
+      "scrollWidth": 390,
+      "bodyScrollWidth": 390,
+      "clientWidth": 390,
+      "offenders": [],
+      "brokenImages": [
+        "/images/about-clinic.jpg",
+        "/images/about-detail.jpg"
+      ],
+      "dir": "ltr",
+      "h1Text": "Your Wellbeing, Our Priority.",
+      "h1Size": "41.6px",
+      "h1Font": "Fraunces",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-en-390.png"
+    },
+    {
+      "width": 390,
+      "lang": "ar",
+      "scrollWidth": 390,
+      "bodyScrollWidth": 390,
+      "clientWidth": 390,
+      "offenders": [],
+      "brokenImages": [
+        "/images/about-clinic.jpg",
+        "/images/about-detail.jpg"
+      ],
+      "dir": "rtl",
+      "h1Text": "عافيتك، أولويتنا.",
+      "h1Size": "37.6px",
+      "h1Font": "Tajawal",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-ar-390.png"
+    },
+    {
+      "width": 360,
+      "lang": "en",
+      "scrollWidth": 360,
+      "bodyScrollWidth": 360,
+      "clientWidth": 360,
+      "offenders": [],
+      "brokenImages": [
+        "/images/about-clinic.jpg",
+        "/images/about-detail.jpg"
+      ],
+      "dir": "ltr",
+      "h1Text": "Your Wellbeing, Our Priority.",
+      "h1Size": "41.6px",
+      "h1Font": "Fraunces",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-en-360.png"
+    },
+    {
+      "width": 360,
+      "lang": "ar",
+      "scrollWidth": 360,
+      "bodyScrollWidth": 360,
+      "clientWidth": 360,
+      "offenders": [],
+      "brokenImages": [
+        "/images/about-clinic.jpg",
+        "/images/about-detail.jpg"
+      ],
+      "dir": "rtl",
+      "h1Text": "عافيتك، أولويتنا.",
+      "h1Size": "37.6px",
+      "h1Font": "Tajawal",
+      "fonts": {
+        "fraunces": true,
+        "manrope": true,
+        "tajawal": true
+      },
+      "sections": [
+        "home",
+        "",
+        "services",
+        "about",
+        "approach",
+        "",
+        "contact"
+      ],
+      "disclaimer": true,
+      "phoneLinks": 6,
+      "whatsappLinks": 4,
+      "mapFrames": 1,
+      "headerPosition": "sticky",
+      "serviceCards": 8,
+      "shot": "screenshots/home-ar-360.png"
+    }
+  ],
+  "interactions": {
+    "headerSticky": "sticky",
+    "dialogOpen": {
+      "visible": true,
+      "title": "Dermatology & Skin Care",
+      "modal": "true"
+    },
+    "dialogClosedOnEscape": true,
+    "arabic": {
+      "lang": "ar",
+      "dir": "rtl",
+      "h1": "عافيتك، أولويتنا.",
+      "serviceTitle": "الأمراض الجلدية والعناية بالبشرة",
+      "font": "Tajawal"
+    },
+    "anchorNavigation": {
+      "hash": "#services",
+      "scrollY": 930
+    },
+    "drawerOpen": {
+      "visible": true,
+      "role": "dialog",
+      "links": 5,
+      "bodyOverflow": "hidden",
+      "activeElement": "DAO Medical Center — home"
+    },
+    "drawerClosedAfterNav": {
+      "closed": true,
+      "hash": "#about",
+      "bodyOverflow": ""
+    },
+    "links": {
+      "emptyHref": 0,
+      "externalWithoutRel": 0
+    },
+    "reducedMotion": {
+      "allVisible": true,
+      "smoothScroll": "auto"
+    }
+  }
+}

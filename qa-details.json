@@ -1,0 +1,546 @@
+{
+  "images": [
+    {
+      "src": "/images/hero.jpg",
+      "alt": "A healthcare professional in a bright, contemporary clinical environment",
+      "complete": true,
+      "natural": "1200x1500",
+      "rendered": "516x620"
+    },
+    {
+      "src": "/images/about-clinic.jpg",
+      "alt": "A calm, modern clinical interior with soft natural light",
+      "complete": true,
+      "natural": "1200x1000",
+      "rendered": "478x598"
+    },
+    {
+      "src": "/images/about-detail.jpg",
+      "alt": "A skincare consultation in a bright treatment room",
+      "complete": true,
+      "natural": "800x800",
+      "rendered": "211x211"
+    }
+  ],
+  "frames": [
+    "http://localhost:5180/",
+    ""
+  ],
+  "mapInfo": null,
+  "clipping": [
+    {
+      "text": "Skip to content",
+      "scrollWidth": 113,
+      "clientWidth": 1,
+      "cls": "sr-only focus:not-sr-only focus:fixed focus:start-4 focus:to"
+    }
+  ],
+  "geometry": {
+    "header": {
+      "top": 2033,
+      "left": 0,
+      "width": 1440,
+      "height": 89
+    },
+    "hero": {
+      "top": 89,
+      "left": 0,
+      "width": 1440,
+      "height": 823
+    },
+    "heroImage": {
+      "top": 154,
+      "left": 783,
+      "width": 516,
+      "height": 620
+    },
+    "about": {
+      "top": 2078,
+      "left": 0,
+      "width": 1440,
+      "height": 905
+    },
+    "contact": {
+      "top": 4064,
+      "left": 0,
+      "width": 1440,
+      "height": 1015
+    },
+    "footer": {
+      "top": 5079,
+      "left": 0,
+      "width": 1440,
+      "height": 505
+    },
+    "cardHeights": [
+      247,
+      269
+    ],
+    "totalHeight": 5583
+  },
+  "contrast": [
+    {
+      "text": "DAO",
+      "color": "rgb(16, 63, 67)",
+      "size": 28,
+      "bold": true,
+      "ratio": 1.52,
+      "required": 3
+    },
+    {
+      "text": "مركز داو",
+      "color": "rgb(23, 109, 112)",
+      "size": 12,
+      "bold": false,
+      "ratio": 2.89,
+      "required": 4.5
+    },
+    {
+      "text": "Home",
+      "color": "rgb(84, 102, 100)",
+      "size": 13,
+      "bold": false,
+      "ratio": 2.9,
+      "required": 4.5
+    },
+    {
+      "text": "About",
+      "color": "rgb(84, 102, 100)",
+      "size": 13,
+      "bold": false,
+      "ratio": 2.9,
+      "required": 4.5
+    },
+    {
+      "text": "Medical Services",
+      "color": "rgb(16, 63, 67)",
+      "size": 13,
+      "bold": false,
+      "ratio": 1.52,
+      "required": 4.5
+    },
+    {
+      "text": "Our Approach",
+      "color": "rgb(84, 102, 100)",
+      "size": 13,
+      "bold": false,
+      "ratio": 2.9,
+      "required": 4.5
+    },
+    {
+      "text": "Contact",
+      "color": "rgb(84, 102, 100)",
+      "size": 13,
+      "bold": false,
+      "ratio": 2.9,
+      "required": 4.5
+    },
+    {
+      "text": "العربية",
+      "color": "rgb(84, 102, 100)",
+      "size": 11,
+      "bold": true,
+      "ratio": 3.36,
+      "required": 4.5
+    },
+    {
+      "text": "Doha, Qatar",
+      "color": "rgb(16, 63, 67)",
+      "size": 9.5,
+      "bold": true,
+      "ratio": 1.32,
+      "required": 4.5
+    },
+    {
+      "text": "Appointments & enquiries",
+      "color": "rgb(84, 102, 100)",
+      "size": 10,
+      "bold": true,
+      "ratio": 3.21,
+      "required": 4.5
+    },
+    {
+      "text": "+974 7766 6350",
+      "color": "rgb(16, 63, 67)",
+      "size": 13,
+      "bold": true,
+      "ratio": 1.68,
+      "required": 4.5
+    },
+    {
+      "text": "Service categories are based on publicly listed informa",
+      "color": "rgb(84, 102, 100)",
+      "size": 11.5,
+      "bold": false,
+      "ratio": 1.02,
+      "required": 4.5
+    },
+    {
+      "text": "Doha, Qatar",
+      "color": "rgb(16, 63, 67)",
+      "size": 10.5,
+      "bold": true,
+      "ratio": 1.68,
+      "required": 4.5
+    },
+    {
+      "text": "Next step",
+      "color": "oklab(0.94171 -0.0224289 0.00161093 / 0.8)",
+      "size": 11,
+      "bold": true,
+      "ratio": 1.7,
+      "required": 4.5
+    },
+    {
+      "text": "Have a question or want to enquire about an appointment",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.7)",
+      "size": 14.5,
+      "bold": false,
+      "ratio": 1.63,
+      "required": 4.5
+    },
+    {
+      "text": "English & Arabic enquiries welcome.",
+      "color": "oklab(0.94171 -0.0224289 0.00161093 / 0.8)",
+      "size": 10.5,
+      "bold": false,
+      "ratio": 1.7,
+      "required": 4.5
+    },
+    {
+      "text": "Map preview provided by Google Maps.",
+      "color": "rgb(84, 102, 100)",
+      "size": 9.5,
+      "bold": false,
+      "ratio": 2.91,
+      "required": 4.5
+    },
+    {
+      "text": "A bilingual website concept for DAO Medical Center — a ",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.65)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.39,
+      "required": 4.5
+    },
+    {
+      "text": "مركز داو الطبي",
+      "color": "oklab(0.94171 -0.0224289 0.00161093 / 0.9)",
+      "size": 15,
+      "bold": false,
+      "ratio": 1.48,
+      "required": 4.5
+    },
+    {
+      "text": "Language",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 10,
+      "bold": true,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "العربية",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.65)",
+      "size": 11,
+      "bold": true,
+      "ratio": 1.35,
+      "required": 4.5
+    },
+    {
+      "text": "Home",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "About",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Medical Services",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Our Approach",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Contact",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Dermatology & Skin Care",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Laser Treatments",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Cosmetic Procedures",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Dental Care & Implants",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "General Medical Consultation",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Cupping Therapy",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "IV Vitamin Treatments",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "ENT Care",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "8F5M+223, Doha, Qatar",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "+974 7766 6350",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "WhatsApp",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "Get Directions",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 12,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    },
+    {
+      "text": "© 2026 DAO Medical Center · Doha, Qatar",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.65)",
+      "size": 10.5,
+      "bold": false,
+      "ratio": 1.39,
+      "required": 4.5
+    },
+    {
+      "text": "Unofficial website concept created by TRIBAL³ for prese",
+      "color": "oklab(0.747897 0.0155009 0.0707593 / 0.9)",
+      "size": 10,
+      "bold": false,
+      "ratio": 1.46,
+      "required": 4.5
+    },
+    {
+      "text": "Concept & design by TRIBAL³",
+      "color": "oklab(0.981769 -0.000434458 0.00538999 / 0.6)",
+      "size": 10,
+      "bold": false,
+      "ratio": 1.36,
+      "required": 4.5
+    }
+  ],
+  "mobileSmallTargets": [
+    {
+      "text": "Skip to content",
+      "w": 1,
+      "h": 1,
+      "cls": "sr-only focus:not-sr-only focus:fixed focus:start-"
+    },
+    {
+      "text": "View on Google Maps",
+      "w": 350,
+      "h": 19,
+      "cls": "inline-flex items-center gap-1.5 text-[12px] font-"
+    },
+    {
+      "text": "8F5M+223, Doha, Qatar",
+      "w": 148,
+      "h": 22,
+      "cls": "transition-colors hover:text-teal"
+    },
+    {
+      "text": "+974 7766 6350",
+      "w": 100,
+      "h": 22,
+      "cls": "transition-colors hover:text-teal"
+    },
+    {
+      "text": "+974 7766 6350",
+      "w": 100,
+      "h": 22,
+      "cls": "transition-colors hover:text-teal"
+    },
+    {
+      "text": "Home",
+      "w": 33,
+      "h": 17,
+      "cls": "text-[12px] text-ivory/60 transition-colors durati"
+    },
+    {
+      "text": "About",
+      "w": 34,
+      "h": 17,
+      "cls": "text-[12px] text-ivory/60 transition-colors durati"
+    },
+    {
+      "text": "Medical Services",
+      "w": 94,
+      "h": 17,
+      "cls": "text-[12px] text-ivory/60 transition-colors durati"
+    },
+    {
+      "text": "Our Approach",
+      "w": 77,
+      "h": 17,
+      "cls": "text-[12px] text-ivory/60 transition-colors durati"
+    },
+    {
+      "text": "Contact",
+      "w": 46,
+      "h": 17,
+      "cls": "text-[12px] text-ivory/60 transition-colors durati"
+    },
+    {
+      "text": "Dermatology & Skin Care",
+      "w": 138,
+      "h": 17,
+      "cls": "text-[12px] leading-snug text-ivory/60 transition-"
+    },
+    {
+      "text": "Laser Treatments",
+      "w": 98,
+      "h": 17,
+      "cls": "text-[12px] leading-snug text-ivory/60 transition-"
+    },
+    {
+      "text": "Cosmetic Procedures",
+      "w": 121,
+      "h": 17,
+      "cls": "text-[12px] leading-snug text-ivory/60 transition-"
+    },
+    {
+      "text": "Dental Care & Implants",
+      "w": 127,
+      "h": 17,
+      "cls": "text-[12px] leading-snug text-ivory/60 transition-"
+    },
+    {
+      "text": "General Medical Consultation",
+      "w": 165,
+      "h": 17,
+      "cls": "text-[12px] leading-snug text-ivory/60 transition-"
+    },
+    {
+      "text": "Cupping Therapy",
+      "w": 96,
+      "h": 17,
+      "cls": "text-[12px] leading-snug text-ivory/60 transition-"
+    },
+    {
+      "text": "IV Vitamin Treatments",
+      "w": 122,
+      "h": 17,
+      "cls": "text-[12px] leading-snug text-ivory/60 transition-"
+    },
+    {
+      "text": "ENT Care",
+      "w": 51,
+      "h": 17,
+      "cls": "text-[12px] leading-snug text-ivory/60 transition-"
+    },
+    {
+      "text": "8F5M+223, Doha, Qatar",
+      "w": 130,
+      "h": 20,
+      "cls": "text-[12px] leading-relaxed text-ivory/60 transiti"
+    },
+    {
+      "text": "+974 7766 6350",
+      "w": 88,
+      "h": 19,
+      "cls": "text-[12px] text-ivory/60 transition-colors hover:"
+    },
+    {
+      "text": "WhatsApp",
+      "w": 59,
+      "h": 19,
+      "cls": "text-[12px] text-ivory/60 transition-colors hover:"
+    },
+    {
+      "text": "Get Directions",
+      "w": 97,
+      "h": 19,
+      "cls": "inline-flex items-center gap-1 text-[12px] text-iv"
+    }
+  ],
+  "consoleErrors": []
+}

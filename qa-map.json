@@ -1,0 +1,51 @@
+{
+  "map": {
+    "src": "https://maps.google.com/maps?q=DAO%20Medical%20Center%2C%20Doha%2C%20Qatar&z=14&output=embed",
+    "rect": {
+      "width": 594,
+      "height": 644
+    }
+  },
+  "frameInfo": [
+    {
+      "url": "https://www.google.com/maps/embed?origin=mfe&pb=!1m3!2m1!1sDAO+Medical+Center,+Doha,+Qatar!6i14",
+      "title": "",
+      "text": "",
+      "hasCanvas": false,
+      "hasMap": false
+    }
+  ],
+  "headerInfo": {
+    "logo": {
+      "left": 193,
+      "right": 340,
+      "width": 147,
+      "height": 42
+    },
+    "toggle": {
+      "left": 68,
+      "right": 163,
+      "width": 95,
+      "height": 33
+    },
+    "menu": {
+      "left": 20,
+      "right": 60,
+      "width": 40,
+      "height": 40
+    },
+    "headerRow": {
+      "left": 0,
+      "right": 360,
+      "width": 360,
+      "height": 72
+    },
+    "overflow": false,
+    "rtlActive": "rtl"
+  },
+  "rtlCss": {
+    "rtlVariant": true
+  },
+  "arrows": 13,
+  "failed": []
+}
