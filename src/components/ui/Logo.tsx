@@ -12,7 +12,7 @@ export function Logo({ tone = 'dark', className, href }: LogoProps) {
 
   const content = (
     <img
-      src="/public/cropped_circle_image.png"
+      src="/images/logo.PNG"
       alt="DAO Medical Center logo"
       width={65}
       height={20}
